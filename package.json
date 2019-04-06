@@ -9,8 +9,13 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "element-ui": "^2.7.2",
+    "mysql": "^2.16.0",
+    "node-xlsx": "^0.14.1",
     "vue": "^2.6.6",
     "vue-router": "^3.0.1",
+    "vue-touch": "^2.0.0-beta.4",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
